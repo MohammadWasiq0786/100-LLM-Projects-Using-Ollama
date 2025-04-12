@@ -1,0 +1,9 @@
+# os
+ollama
+gradio
+PyPDF2
+scikit-learn
+sentence_transformers
+numpy
+requests
+bs4
